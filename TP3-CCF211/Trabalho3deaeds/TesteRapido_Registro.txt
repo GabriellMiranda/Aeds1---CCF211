@@ -1,0 +1,42 @@
+Tamanho do Vetor:1000
+Medias:5.00
+Bubblesort:
+Media de Movimentacoes:244843.60
+Media de Comparacoes:499500.00
+Media de tempo:0.00240
+ 
+Selectionsort:
+Media de Movimentacoes:245833.20
+Media de Comparacoes:499500.00
+Media de tempo:0.00180
+ 
+Insertionsort:
+Media de Movimentacoes:494340.60
+Media de Comparacoes:249500.20
+Media de tempo:0.00100
+ 
+Shellsort:
+Media de Movimentacoes:503189.80
+Media de Comparacoes:5457.00
+Media de tempo:0.00020
+ 
+Quicksort:
+Media de Movimentacoes:505880.00
+Media de Comparacoes:5858.40
+Media de tempo:0.00000
+ 
+Heapsort:
+Media de Movimentacoes:514965.80
+Media de Comparacoes:20942.00
+Media de tempo:0.00020
+ 
+Mergesort:
+Media de Movimentacoes:519341.60
+Media de Comparacoes:8698.20
+Media de tempo:0.00000
+ 
+Radixsort:
+Media de Movimentacoes:520839.20
+Media de Comparacoes:0.00
+Media de tempo:0.00000
+ 
